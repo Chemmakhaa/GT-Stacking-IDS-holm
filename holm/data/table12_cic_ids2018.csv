@@ -1,0 +1,7 @@
+comparison,t,df,p_value,cohen_d
+MLP-based stacking ensemble vs. CatBoost,5.130,9,0.0006,2.357
+MLP-based stacking ensemble vs. XGBoost,4.018,9,0.003,1.846
+MLP-based stacking ensemble vs. LightGBM,11.628,9,<0.0001,5.343
+MLP-based stacking ensemble vs. Gradient Boosting,7.381,9,<0.0001,3.391
+MLP-based stacking ensemble vs. AdaBoost,32.665,9,<0.0001,15.008
+MLP-based stacking ensemble vs. Random Forest,5.949,9,0.0002,2.733

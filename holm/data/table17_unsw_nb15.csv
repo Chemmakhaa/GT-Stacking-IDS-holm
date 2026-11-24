@@ -1,0 +1,10 @@
+comparison,t,df,p_value,cohen_d
+MLP-based stacking ensemble vs. 1D-CNN,4.82,9,0.0009,1.52
+MLP-based stacking ensemble vs. LSTM,5.67,9,0.0003,1.79
+MLP-based stacking ensemble vs. KNN,8.14,9,<0.0001,2.57
+MLP-based stacking ensemble vs. SVM,6.93,9,<0.0001,2.19
+MLP-based stacking ensemble vs. CNN-XGBoost,3.21,9,0.0107,1.01
+MLP-based stacking ensemble vs. CNN-LSTM,2.64,9,0.0267,0.83
+MLP-based stacking ensemble vs. Spiking Neural Network,4.39,9,0.0017,1.39
+MLP-based stacking ensemble vs. Graph Convolutional Networks,1.97,9,0.0804,0.62
+MLP-based stacking ensemble vs. Autoencoder,5.31,9,0.0004,1.68
